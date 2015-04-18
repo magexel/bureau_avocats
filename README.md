@@ -137,3 +137,6 @@ VI.	Besoin techniques :
 
 L’application doit être développée avec la technologie Asp.net MVC (Web Application Framework) et choisir comme Template le mode MVC (Model View Controller).
 Ne faut pas oublier d’utiliser la méthode agile Scrum pour organiser le développement du produit ce qui permettra d’avoir un cadre de travail permettant de répondre aux différents problèmes changeants tout en livrant de manière productive et créative un produit de la plus grande valeur possible.
+
+
+modified by me
